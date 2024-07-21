@@ -47,4 +47,4 @@ Contributions are welcome! If you'd like to contribute:
    - Push to the branch (git push origin feature/your-feature).
    - Create a new Pull Request.
 
-For questions or support, please contact (Rakesh Yadav)[https://www.linkedin.com/in/rakesh-yadav-556724118/]
+For questions or support, please contact [Rakesh Yadav](https://www.linkedin.com/in/rakesh-yadav-556724118/)
