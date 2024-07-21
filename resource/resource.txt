@@ -1,0 +1,1 @@
+https://github.com/bhattbhavesh91/pdf-qa-astradb-langchain/blob/main/pdf-q-n-a-astradb-notebook.ipynb
