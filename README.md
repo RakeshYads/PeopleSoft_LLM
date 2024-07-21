@@ -26,19 +26,18 @@ To run the bot locally:
    cd PeopleSoft_LLM
    ```
 
-    Install dependencies:
+ 2. Install dependencies:
 
     ```bash
 
-pip install -r requirements.txt
-```
-Run the bot:
-```
-bash
+    pip install -r requirements.txt
+    ```
+ 3. Run the bot:
+    ```bash
 
     python main.py
-```
-Contributing
+    ```
+### Contributing
 
 Contributions are welcome! If you'd like to contribute:
 
